@@ -1,8 +1,6 @@
-import React from "react";
-
-import Footer from "./footer";
+import React from 'react';
 import Header from "./header";
-
+import Footer from "./footer";
 export default class Layout extends React.Component {
     constructor() {
         super();
@@ -14,7 +12,6 @@ export default class Layout extends React.Component {
     changeTitle(title) {
         this.setState({ title });
     }
-
     render() {
         return (
             <div>
