@@ -13,7 +13,8 @@ Navigate to localhost:8080
 
 webpack-dev-server can be used to quickly develop an application
 
-`npm install -S webpack-dev-server'
+Installation
+`$ npm install -S webpack-dev-server`
 
 serving src folder
-`$ Hot webpack-dev-server --content-base src`
+`$ webpack-dev-server --content-base src`
