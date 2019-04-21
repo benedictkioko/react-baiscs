@@ -16,5 +16,5 @@ webpack-dev-server can be used to quickly develop an application
 Installation
 `$ npm install -S webpack-dev-server`
 
-serving src folder
-`$ webpack-dev-server --content-base src`
+serving src folder with inline hot flag
+`$ webpack-dev-server --content-base src --inline --hot`
