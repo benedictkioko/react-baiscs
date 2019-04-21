@@ -2,7 +2,7 @@
 
 Instructions to run
 ```
-git clone git@github.com:benedictkioko/react-baiscs.git
+git clone git@github.com:benedictkioko/react-basics.git
 cd react-basics
 npm install
 npm run dev
